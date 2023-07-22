@@ -1,0 +1,39 @@
+DogMeetDog Privacy Policy
+
+Last updated: [Date]
+
+1. Introduction
+
+Welcome to DogMeetDog, the social networking app for dogs. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+2. Collection of Your Information
+
+We may collect information about you and your dog in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
+
+- Personal Data: While registering, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, and other information.
+
+- Dog Data: We collect data about your dog including name, breed, age, gender, and photos.
+
+- Geo-Location Information: We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services.
+
+3. Use of Your Information
+
+We use the information we collect to facilitate the creation of and secure your Account on our network, identify you as a user in our system, provide, personalize, and improve our services.
+
+4. Disclosure of Your Information
+
+We do not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice.
+
+5. Security of Your Information
+
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable.
+
+6. Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at support@dogmeetdog.com.
+
+By using DogMeetDog, you hereby consent to our Privacy Policy and agree to its terms.

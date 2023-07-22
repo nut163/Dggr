@@ -1,0 +1,94 @@
+1. Exported Variables: 
+   - `user_id`: Unique identifier for each user.
+   - `dog_id`: Unique identifier for each dog profile.
+   - `match_id`: Unique identifier for each match.
+   - `chat_id`: Unique identifier for each chat.
+   - `location_id`: Unique identifier for each location.
+   - `subscription_id`: Unique identifier for each subscription.
+   - `ad_id`: Unique identifier for each advertisement.
+
+2. Data Schemas:
+   - `UserSchema`: Schema for user profile data.
+   - `DogSchema`: Schema for dog profile data.
+   - `MatchSchema`: Schema for match data.
+   - `ChatSchema`: Schema for chat data.
+   - `LocationSchema`: Schema for location data.
+   - `SubscriptionSchema`: Schema for subscription data.
+   - `AdSchema`: Schema for advertisement data.
+
+3. DOM Element IDs:
+   - `login_button`
+   - `register_button`
+   - `logout_button`
+   - `delete_account_button`
+   - `user_profile_form`
+   - `dog_profile_form`
+   - `match_list`
+   - `chat_window`
+   - `settings_form`
+   - `subscription_form`
+   - `ad_banner`
+   - `location_map`
+   - `swipe_card`
+   - `notification_list`
+   - `report_form`
+   - `review_form`
+   - `payment_form`
+   - `privacy_policy_text`
+   - `terms_conditions_text`
+   - `help_support_text`
+   - `theme_selector`
+   - `language_selector`
+   - `feedback_form`
+   - `update_button`
+
+4. Message Names:
+   - `login_success`
+   - `register_success`
+   - `logout_success`
+   - `account_deleted`
+   - `profile_updated`
+   - `match_found`
+   - `chat_started`
+   - `settings_updated`
+   - `subscription_updated`
+   - `ad_clicked`
+   - `location_updated`
+   - `swipe_made`
+   - `notification_received`
+   - `report_submitted`
+   - `review_submitted`
+   - `payment_made`
+   - `privacy_policy_accepted`
+   - `terms_conditions_accepted`
+   - `help_requested`
+   - `theme_changed`
+   - `language_changed`
+   - `feedback_submitted`
+   - `update_installed`
+
+5. Function Names:
+   - `login()`
+   - `register()`
+   - `logout()`
+   - `deleteAccount()`
+   - `updateUserProfile()`
+   - `updateDogProfile()`
+   - `findMatch()`
+   - `startChat()`
+   - `updateSettings()`
+   - `updateSubscription()`
+   - `clickAd()`
+   - `updateLocation()`
+   - `swipe()`
+   - `receiveNotification()`
+   - `submitReport()`
+   - `submitReview()`
+   - `makePayment()`
+   - `acceptPrivacyPolicy()`
+   - `acceptTermsConditions()`
+   - `requestHelp()`
+   - `changeTheme()`
+   - `changeLanguage()`
+   - `submitFeedback()`
+   - `installUpdate()`
